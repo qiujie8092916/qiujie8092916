@@ -1,6 +1,8 @@
 <!-- ## Hi there 👋 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiujie8092916&count_private=true&show_icons=true&theme=one_dark_pro&hide_title=true&hide_rank=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=qiujie8092916&layout=compact&theme=one_dark_pro))](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **qiujie8092916/qiujie8092916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
